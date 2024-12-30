@@ -5,3 +5,18 @@ body{
 #twitch{
     color: rgb(243, 0, 182);
 }
+
+#Link_Boxt{
+    width: 30%;
+    position: absolute;
+    background-color: color(srgb 0.5 0 0.5);
+    border-radius: 25px 0px;
+}
+
+#Link_Boxy{
+    width: 30%;
+    position: absolute;
+    left: 33%;
+    background-color: color(srgb 1 0 0);
+    border-radius: 25px 0px;
+}
