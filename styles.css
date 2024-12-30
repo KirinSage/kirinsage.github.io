@@ -37,10 +37,7 @@ h3{
     left: 80px;
 }
 
-.inactive_tab{
-
-}
-
 .active_tab{
     color: aliceblue;
+    text-decoration: underline overline;
 }
