@@ -41,3 +41,7 @@ h3{
     color: aliceblue;
     text-decoration: underline overline;
 }
+
+.closed{
+    display: none;
+}

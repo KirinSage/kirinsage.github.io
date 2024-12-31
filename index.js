@@ -1,3 +1,5 @@
+//project made and written by Ethan "KirinSage" Wright
+
 let aboutTab = document.querySelector("#about");
 let linksTab = document.querySelector("#links");
 
