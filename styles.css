@@ -45,3 +45,15 @@ h3{
 .closed{
     display: none;
 }
+
+#about_content{
+    top: 80px;
+    position: absolute;
+}
+
+.about_box{
+    width: 40%;
+    background-color: rgb(212, 130, 130);
+    border-radius: 20px;
+    padding: 5px;
+}
